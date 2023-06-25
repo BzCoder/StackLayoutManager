@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidProject.StackLayoutManager.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidProject.StackLayoutManager.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackLayoutManager.iml" filepath="$PROJECT_DIR$/StackLayoutManager.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackLayoutManager/StackLayoutManager-StackLayoutManager.iml" filepath="$PROJECT_DIR$/StackLayoutManager/StackLayoutManager-StackLayoutManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StackLayoutManager/StackLayoutManager.StackLayoutManager.iml" filepath="$PROJECT_DIR$/.idea/modules/StackLayoutManager/StackLayoutManager.StackLayoutManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StackLayoutManager/StackLayoutManager.StackLayoutManager.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/StackLayoutManager/StackLayoutManager.StackLayoutManager.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StackLayoutManager/StackLayoutManager.StackLayoutManager.main.iml" filepath="$PROJECT_DIR$/.idea/modules/StackLayoutManager/StackLayoutManager.StackLayoutManager.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StackLayoutManager/StackLayoutManager.StackLayoutManager.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/StackLayoutManager/StackLayoutManager.StackLayoutManager.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/StackLayoutManager.sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/StackLayoutManager.sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/StackLayoutManager.sample.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/StackLayoutManager.sample.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/StackLayoutManager.sample.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/StackLayoutManager.sample.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/StackLayoutManager.sample.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/StackLayoutManager.sample.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
     </modules>
   </component>
